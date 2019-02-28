@@ -4,10 +4,11 @@
 
 ## Front Matter
 
-Status: Development
-Revision 1:
-Recent Revision History: Added MAOP for 20degC Water to PDF and xlsx
-
+    Status: Development
+    Revision: 1
+    Revision History: 
+        1: Added MAOP for 20degC Water to PDF and xlsx
+        0: Initial release.
 
 This repository houses pipe dimensional data for HDPE Pipe to AS/NZS 4130 PE100 HDPE Pipe in various formats.
 
