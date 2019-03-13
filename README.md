@@ -1,6 +1,4 @@
-# AS4130 HDPE Pipe Data
-
-## AS 4130 HDPE Dimensions and Weights
+# AS4130 HDPE Pipe Data (Dimensions and Weights)
 
 ## Front Matter
 
